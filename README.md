@@ -22,3 +22,10 @@ Donations at: pokemartservices@gmail.com
 My shop: http://pogomart.xyz
 
 Creidts to everyone for helping out with these configs! Remember, my configs will always be free of charge.
+
+
+Jumbo Proxy Switcher 104.202.117.245 80 Transparent false Proxy from United States United States 980 99.06 Details
+Jumbo Proxy Switcher 104.202.117.151 80 Transparent false Proxy from United States United States 413 99.05 Details
+Jumbo Proxy Switcher 120.52.72.24 80 Transparent false Proxy from China China 990 99.05 Details
+Jumbo Proxy Switcher 104.202.117.199 80 Transparent false Proxy from United States United States 427 99.05 Details
+Jumbo Proxy Switcher 104.202.117.112 80 Transparent false Proxy from United States United States 599 99.04 Details
