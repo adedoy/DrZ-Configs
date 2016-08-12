@@ -23,6 +23,7 @@ My shop: http://pogomart.xyz
 
 Creidts to everyone for helping out with these configs! Remember, my configs will always be free of charge.
 
+http://www.xroxy.com/proxylist.htm
 
 Jumbo Proxy Switcher 104.202.117.245 80 Transparent false Proxy from United States United States 980 99.06 Details
 Jumbo Proxy Switcher 104.202.117.151 80 Transparent false Proxy from United States United States 413 99.05 Details
